@@ -1,0 +1,84 @@
+// Colors
+//---------------------------------
+// https://www.htmlcsscolor.com/hex/334482
+
+// Default
+
+$black: #373947;
+$white: #ffffff;
+$transparent: rgba(255, 255, 255, 0);
+
+// Base
+$sea-green: #219653;
+$sea-buckthorn: #f2994a;
+$dodger-blue: #2f80ed;
+$amethyst: #9b51e0;
+$golden-yellow: #ffdd00;
+
+// Extra
+
+$sandy-beach: #ffdfbc;
+$amour: #fdecee;
+$forget-me-not: #ffeedc;
+$corn-silk: #fff9e3;
+$light-yellow: #feffdc;
+$linen: #faf0e7;
+$snow-flurry: #edfad3;
+$snow-flurry-1: #eaf3ce;
+$just-right: #dbc3b6;
+$swirl: #cac9c8;
+$hawkes-blue: #cdd2ea;
+$anakiwa: #90d7f3;
+$pattens-blue: #daf2fd;
+$pattens-blue-1: #c7eaf9;
+$alice-blue: #eff9ff;
+$light-blue: #bbd3dd;
+$scandal: #abddd4;
+$emerald: #52dc68;
+$foam: #d3ede9;
+$melrose: #c9c4d2;
+$magnolia: #eae6f1;
+$carnation-pink: #f89dc3;
+$purple-heart: #773dbd;
+$white-smoke: #f7f7f7;
+$shakespeare: #6c9bb6;
+$light-grey: #d7d7d7;
+$nobel: #9c9c9c;
+$whisper: #e5e5e5;
+$dark-gray: #acacac;
+
+// Gradient
+
+$black-to-right: linear-gradient(90deg, rgba(0, 0, 0, 0.75) 0%, rgba(0, 0, 0, 0) 75%);
+$yellow-to-purple: linear-gradient(90deg, rgba(255, 221, 0, 1) 0%, rgba(155, 81, 224, 1) 100%);
+
+// Typography
+//---------------------------------
+
+$font--main: "Stolzl", "Arial", sans-serif;
+
+// Animation
+//---------------------------------
+
+$transition: 0.3s ease;
+$transition--long: 0.6s cubic-bezier(0.55, 0, 0.1, 1);
+
+// Viewports
+//---------------------------------
+
+$viewport--sm: 320px;
+$viewport--md: 768px;
+$viewport--lg: 1024px;
+$viewport--xl: 1440px;
+$viewport--xxl: 1920px;
+
+// Retina
+//---------------------------------
+
+$retina-dpi: 144dpi;
+$retina-dppx: 1.5dppx;
+
+// States
+//---------------------------------
+$opacity--hover: 0.7;
+$opacity--focus: 0.7;

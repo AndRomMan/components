@@ -1,0 +1,17 @@
+@font-face {
+  font-style: normal;
+  font-weight: 500;
+  font-family: "Stolzl";
+
+  font-display: swap;
+  src: url("../fonts/stolzl-medium.woff2") format("woff2"), url("../fonts/stolzl-medium.woff") format("woff");
+}
+
+@font-face {
+  font-style: normal;
+  font-weight: 400;
+  font-family: "Stolzl";
+
+  font-display: swap;
+  src: url("../fonts/stolzl-book.woff2") format("woff2"), url("../fonts/stolzl-book.woff") format("woff");
+}

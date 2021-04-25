@@ -1,0 +1,16 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        "targets": {},
+        "useBuiltIns": "usage",
+        "corejs": {
+          "version": 3.8,
+          "proposals": true
+        }
+      }
+    ]
+  ],
+  "comments": false
+}
